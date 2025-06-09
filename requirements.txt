@@ -3,3 +3,4 @@ pandas
 pycaret[clustering]==3.2.0
 plotly
 scikit-learn
+joblib
