@@ -1,6 +1,6 @@
 streamlit
 pandas
-pycaret[clustering]==3.2.0
+pycaret
 plotly
 scikit-learn
 joblib
